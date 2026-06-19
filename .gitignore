@@ -1,0 +1,8 @@
+US_Accidents_March23.csv
+*.csv
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
